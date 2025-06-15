@@ -4,7 +4,7 @@
 
 This Pine Script project provides a basic framework for screening multiple trading symbols simultaneously, designed to empower traders and developers to implement their own custom algorithms and strategies. It demonstrates how to fetch OHLC (Open, High, Low, Close) data for a predefined list of cryptocurrency pairs from Binance or other compatible data sources. **The simple bar-state-change detection strategy included serves as an example to illustrate how the script processes data and triggers events.** The core functionality revolves around the `STRATEGY` type, which processes market data and can be extended to apply various algorithms, with results displayed in a customizable table directly on your TradingView chart.
 
-A [demo video](###demo) is available to see the script in action.
+A [demo video](#demo) is available to see the script in action.
 
 ### Features
 
